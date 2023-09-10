@@ -1,7 +1,7 @@
 const contmenu=()=>{
     let contents=document.createElement('div');
     contents.style.display='flex';
-    contents.style.flexDirection='row';
+    contents.style.flexDirection='column';
     contents.style.justifyContent="start"
     contents.style.alignItems="center"
     let h11=document.createElement('h1');

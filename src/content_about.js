@@ -1,7 +1,7 @@
 const contabout=()=>{
     let contents=document.createElement('div');
     contents.style.display='flex';
-    contents.style.flexDirection='row';
+    contents.style.flexDirection='column';
     contents.style.justifyContent="center"
     contents.style.alignItems="center"
     let h11=document.createElement('h1');
